@@ -1,0 +1,1 @@
+{"args":{},"headers":{"x-forwarded-proto":"http","x-forwarded-port":"80","host":"postman-echo.com","x-amzn-trace-id":"Root=1-6155c92a-54e305097c4680b75a8c9f25","user-agent":"PostmanRuntime/7.28.4","accept":"*/*","cache-control":"no-cache","postman-token":"b62bc613-b878-4fcc-8b07-08b4f3c2a8e6","accept-encoding":"gzip, deflate, br"},"url":"http://postman-echo.com/get"}
